@@ -1,0 +1,4 @@
+class AppConstant{
+  String appPublicationKey ="pk_test_51QQ236K2BYaUZJ950y2SIwzQcaOHJv9w813txsB2kEcKs3tTzXcvU6CBVWpQrQpoUWzdL5js5pytesQuOFTFboge004GAsyXRN";
+  String appSecretKey ="sk_test_51QQ236K2BYaUZJ95fGFVR4dfXxuWYiJd2Jdgb91SgBQtLSebR93tmUqZU4v7n17ZXjj4WPA1TZ98Wh1NGkzw7V0E00rvDIzRzk";
+}
